@@ -1,6 +1,47 @@
-!-- this is where ideas come to die, only the ones that can stand the tests of the void. Can push through and make its way into our world. 
+<!--- 
+this is where ideas come to die, only the ones that can stand the tests of the void. Can push through and make its way into our world. 
 
+(Theory crafting for pong game)
+Structure:
+Change the mechanics of pong by making it a coop experience. *is coop mandatory?*
+3*6 board | 3x3 per side 3x3 (may need 4 lanes if we use lanes could go with a touhou) | Unsure how to model single player campaign * too reliant on coop aspects needs restucture 
+[edit: solution found and updated in gameplay section]*
+Goal of the game: Create a coop focused experience that isn't limited to coop, but allows different archetypes to really shine providing a variety of play style for each in
+a fast paced bullet hell team-strategy experience
 
+Gameplay:
+Structured similar to pong from the perspective of a tennis match with teams of three/four maximum. How to win though? Instead of it being points its more along the lines of a bullet hell* you have the option to return
+or dodge but the bullets do return off the wall. [need to decide mechanics for how projectiles and attacks will return from opposite side. thinking about PvE when I mention this.
+Possibly rogue lite, with bosses and attacks from NPC's past just projectiles *shockwaves on the ground*] Contact with a projectile is how you lose health. 
 
+Mechanics:
 
---!
+[balance multiplayer by giving 3 relics, the playing characters must split the essense to equip a relic. 
+A player can relenquish an essense for another player to have more than one relic.
+
+Introducing rogue lite elements like augments and cards over the course of run could increase playability, and introduce variety. * got to be careful to not stack
+all the variety into the RNG. Need to balance RNG with meta progression.
+
+Example Healer progression outside of game can manage and augment the relics you can start with. [should the unlockable starter relics be acquirable in the game, or should 
+they not be stackable wihout an essense, should essence be findable mid run?] As the run goes on [level up and augment the abilites you have found in mid room break areas. car]
+you will find additional abilites that are class specific to change your playstyle if you desire [maybe when you dont take an ability it can be turned into an essence fragment.]
+Ability example 
+support>
+Abilities: Barrier- Shield a flat amount of damage | Succor ann AoE barrier (Succor Lv 2 equals and aoe barrier 1 same for SuccLv3=AOEBarLv2) | Reflect 
+Barrier | Barrier Lv2 / Succor Lv1 | Barrier Lv3 / Succor Lv2 | Reflect / Succor Lv3 
+Heal
+]
+
+Classes: 
+
+Tank: 
+
+[pong: Can move one space at a time and attack at adjacent blocks.] 
+Special Attack Parry - when stanced in front of the projectile [maybe timing blocks instead?] returns projectile at a faster speed than received *note to calibrate max speed with velocity*
+Has a single dash to move a space immediately [this is to enable parry plays] Possibility for future improves with either different tank classes or a skill tree to change the playstyle.
+[experiment later with rogue light possibilities] 
+
+Damage: Can strike twice and dash twice. [work in progress]
+
+Support: Can mitigate damage, heal, or augment others projectiles
+---!>
